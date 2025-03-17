@@ -1,2 +1,2 @@
 # Payton-
-Hola mundo
+print("Hola, mundo")
